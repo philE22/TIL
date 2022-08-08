@@ -9,3 +9,6 @@ Today I Learned. 매일 배운 것이 있다면 정리
 
 ## 네트워킹
 - [웹 어플리케이션 작동원리](https://github.com/philE22/TIL/blob/main/Network/Network.md)
+
+## 데이터베이스
+- [정규화](https://github.com/philE22/TIL/blob/main/DataBase/Normalization.md)
